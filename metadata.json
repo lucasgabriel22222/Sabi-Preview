@@ -1,0 +1,6 @@
+{
+  "name": "Sabiá Agropet",
+  "description": "Landing page profissional da Sabiá Agropet em Arapongas - PR. Rações, farmácia veterinária, banho & tosa e produtos agro com atendimento personalizado via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Fraunces", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --color-forest: #234e26;
+  --color-forest-dark: #19381c;
+  --color-forest-light: #2e6632;
+  --color-amber-gold: #e5a93c;
+  --color-cream: #fbf9f5;
+  --color-cream-muted: #f4efe6;
+  --color-cream-card: #ffffff;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+.font-display {
+  font-family: var(--font-serif);
+}
